@@ -1,0 +1,4 @@
+openai
+openai-agents
+youtube-transcript-api
+python-dotenv
